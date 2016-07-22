@@ -1,0 +1,27 @@
+{
+  "name": "eslint-custom",
+  "version": "0.0.1",
+  "description": "An example of how to configure an eslintrc with a base config and your own custom rules",
+  "main": "demo.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.11.1",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "eslint-plugin-react": "^5.2.2"
+  },
+  "scripts": {
+    "test": "eslint demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/founderbliss/configuration.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/founderbliss/configuration/issues"
+  },
+  "homepage": "https://github.com/founderbliss/configuration#readme"
+}

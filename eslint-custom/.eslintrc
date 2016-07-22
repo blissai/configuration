@@ -1,0 +1,11 @@
+{
+  // extend the eslint-config-airbnb rules
+  "extends": "airbnb",
+
+  // add custom rules in addition to the airbnb set
+  "rules": {
+
+    // never use semi colons
+    "semi": ["error", "never"],
+  }
+}
